@@ -43,4 +43,7 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+.keep-all{
+  word-break: keep-all;
+}
 </style>
