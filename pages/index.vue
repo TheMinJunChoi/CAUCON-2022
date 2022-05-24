@@ -5,7 +5,7 @@
   </div> -->
 
   <div class="pt-16 md:pt-24 pb-12 md:pb-20 max-w-5xl mx-auto text-6xl md:text-8xl text-white text-center">
-    <div class="opacity-70 text-2xl md:text-5xl font-semibold md:font-bold tracking-tight pb-1 md:pb-2">GDSC CAUCON 2022 :</div>
+    <div class="opacity-70 text-2xl md:text-5xl font-semibold md:font-bold tracking-tight pb-1 md:pb-2">GDSC CAUCON 2022</div>
     <span class="gradient-one font-extrabold tracking-tight ">Grow Your Possibility</span>
     <div class="pt-8 font-medium text-white text-xl md:text-3xl">오프라인 컨퍼런스 7월 30일 오후 2시</div>
   </div>
