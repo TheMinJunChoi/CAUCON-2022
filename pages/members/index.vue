@@ -10,7 +10,7 @@
         </div>
         
         <div class="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-6 gap-x-3 md:gap-x-5 gap-y-9 pb-20 md:pb-24 md:pt-10">
-            <div v-for="imember of member" :key="imember" class="rounded-xl border-solid border-2 border-semi-black hover:border-semi-white">
+            <div v-for="imember of member" :key="imember" class="rounded-xl border-solid border-2 border-semi-black hover:border-[#E8EAED] peer-hover:border-[#E8EAED]">
                 <nuxt-link :to='`/members/${imember.slug}`' class="group px-2 py-2">
                     <div class="flex justify-center mb-3 md:mb-5">
                         <div class="lead-box h-32 w-32 md:h-40 md:w-40">
@@ -24,12 +24,6 @@
                 </nuxt-link>
             </div>
         </div>
-
-
-       
-
-        
-
     </div>
 
 </template>

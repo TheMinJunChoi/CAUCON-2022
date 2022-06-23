@@ -22,16 +22,25 @@
 .bg-semi-black{
     background-color:#202124 !important;
 }
+.border-semi-black{
+    border-color:#202124 !important;
+}
 .text-semi-white{
     color: #E8EAED !important;
 }
 .bg-semi-white{
     background-color:#E8EAED !important;
 }
+.border-semi-white{
+    border-color:#E8EAED !important;
+}
 .text-semi-gray{
     color: #96A0A6 !important;
 }
 .bg-semi-gray{
     background-color:#96A0A6 !important;
+}
+.border-semi-gray{
+    border-color:#96A0A6 !important;
 }
 </style>
