@@ -24,7 +24,9 @@
 }
 .border-semi-black{
     border-color:#202124 !important;
+    hover: border-semi-white !important;
 }
+
 .text-semi-white{
     color: #E8EAED !important;
 }
@@ -34,6 +36,7 @@
 .border-semi-white{
     border-color:#E8EAED !important;
 }
+
 .text-semi-gray{
     color: #96A0A6 !important;
 }

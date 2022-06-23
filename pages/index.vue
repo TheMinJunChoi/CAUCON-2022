@@ -10,7 +10,7 @@
     <div class="pt-8 font-medium text-white text-xl md:text-3xl">오프라인 컨퍼런스 7월 30일 오후 2시</div>
   </div>
 
-  <div class="max-w-4xl mx-auto rounded-xl md:rounded-2xl bg-zinc-900 px-6 md:px-14 py-6 md:py-9 border">
+  <div class="max-w-4xl mx-auto rounded-xl md:rounded-2xl bg-semi-black px-6 md:px-14 py-6 md:py-9 border">
     <div class="text-2xl md:text-3xl text-white text-center font-medium pb-2 md:pb-3">소식받기</div>
     <div class="text-sm md:text-base text-center text-white opacity-80">인스타그램을 팔로우하시면 가장 먼저 컨퍼런스 관련 소식을 접하실 수 있어요. <br class="hidden md:inline" /> 기다리시는 동안 저희의 블로그, 깃헙도 둘러보세요!</div>
     <div class="text-sm md:text-base grid grid-cols-1 md:grid-cols-3 space-y-3 md:space-y-0 space-x-0 md:space-x-4 pt-3 md:pt-5 font-medium">

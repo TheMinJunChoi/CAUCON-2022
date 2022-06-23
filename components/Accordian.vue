@@ -1,21 +1,36 @@
 <template>
 <div class="accordion" id="accordionExample5">
-  <div class="accordion-item border border-gray-200 bg-white">
+  
+  <div class="accordion-item bg-white border border-semi-white">
     <h2 class="accordion-header mb-0" id="headingOne5">
-      <button class="accordion-button relative flex items-center w-full py-6 px-5 bg-white
-      text-sm md:text-base text-gray-800 text-left border-0 rounded-none transition focus:outline-none
-      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne5" aria-expanded="true"
+      <button class="
+        accordion-button
+        collapsed
+        relative
+        flex
+        items-center
+        w-full
+        py-6
+        px-5
+        text-sm md:text-base text-gray-800 text-left
+        bg-semi-black
+        text-semi-white
+        border-0
+        rounded-none
+        transition
+        focus:outline-none
+      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne5" aria-expanded="false"
         aria-controls="collapseOne5">
         컨퍼런스를 참관하고 싶은데, 참여 자격이 있나요?
       </button>
     </h2>
-    <div id="collapseOne5" class="accordion-collapse collapse show" aria-labelledby="headingOne5">
+    <div id="collapseOne5" class="accordion-collapse collapse" aria-labelledby="headingOne5">
       <div class="accordion-body py-6 px-5 text-sm md:text-base">
         참여 자격은 따로 존재하지 않습니다! GDSC 중앙대 챕터에 관심이 있는 분이라면 누구든 참관하실 수 있어요. GDSC 멤버이실 필요도, 중앙대생이실 필요도, 대학생이실 필요도 없어요.
       </div>
     </div>
   </div>
-  <div class="accordion-item bg-white border border-gray-200">
+  <div class="accordion-item bg-white border border-semi-white">
     <h2 class="accordion-header mb-0" id="headingTwo5">
       <button class="
         accordion-button
@@ -27,7 +42,8 @@
         py-6
         px-5
         text-sm md:text-base text-gray-800 text-left
-        bg-white
+        bg-semi-black
+        text-semi-white
         border-0
         rounded-none
         transition
@@ -43,7 +59,7 @@
       </div>
     </div>
   </div>
-  <div class="accordion-item bg-white border border-gray-200">
+  <div class="accordion-item bg-white border border-semi-white">
     <h2 class="accordion-header mb-0" id="headingThree5">
       <button class="
         accordion-button
@@ -55,7 +71,8 @@
         py-6
         px-5
         text-sm md:text-base text-gray-800 text-left
-        bg-white
+        bg-semi-black
+        text-semi-white
         border-0
         rounded-none
         transition
