@@ -1,5 +1,5 @@
 <template>
-<div class="w-full bg-semi-black">
+<div class="wfull bg-semi-black">
     <div class="related max-w-5xl mx-auto pt-28 pb-12 md:pb-24 md:pt-44">
         
         <div class="max-w-3xl mx-auto">
@@ -84,5 +84,8 @@ img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+}
+.wfull{
+  width: 100vw;
 }
 </style>

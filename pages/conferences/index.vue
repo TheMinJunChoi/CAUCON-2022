@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full z-0 bg-img section h-content bg-semi-black" >
+    <div class="wfull z-0 section h-content bg-semi-black" >
         <div class="pt-20 md:pt-15 pb-3 md:pb-10 max-w-7xl mx-auto px-6">
             <div class="pb-6 text-3xl md:text-5xl font-semibold text-semi-white">
                 Conference
@@ -52,5 +52,8 @@ export default {
     width: 400px;
     height: 200px;
     object-fit: cover;
+}
+.wfull{
+  width: 100vw;
 }
 </style>

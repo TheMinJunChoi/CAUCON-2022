@@ -1,6 +1,5 @@
 <template>
 <div class="accordion" id="accordionExample5">
-  
   <div class="accordion-item bg-white border border-semi-white">
     <h2 class="accordion-header mb-0" id="headingOne5">
       <button class="

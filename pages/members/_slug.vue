@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full bg-semi-black">
+    <div class="wfull bg-semi-black">
         <div class="max-w-7xl mx-auto px-6 pt-28 md:pt-20">
             <div class="hidden md:block ">
                 <div class="flex flex-row justify-between">
@@ -103,5 +103,7 @@ export default {
     height: 225px;
     object-fit: cover;
 }
-
+.wfull{
+  width: 100vw;
+}
 </style>

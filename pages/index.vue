@@ -1,5 +1,5 @@
 <template>
-<div class="w-full bg-semi-black px-5">
+<div class="wfull bg-semi-black px-5">
   <!-- <div class="mx-auto py-20 text-center">
     <Countdown class="fixed-nums" deadline="July 30, 2022"></Countdown>
   </div> -->
@@ -45,5 +45,8 @@
 }
 .keep-all{
   word-break: keep-all;
+}
+.wfull{
+  width: 100vw;
 }
 </style>

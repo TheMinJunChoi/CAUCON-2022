@@ -1,5 +1,5 @@
 <template>
-    <footer class="w-full  py-11 md:py-14 md:pt-20 md:pb-24 px-2 md:px-5 bg-semi-black">
+    <footer class="wfull  py-11 md:py-14 md:pt-20 md:pb-24 px-2 md:px-5 bg-semi-black">
         
         <div class="max-w-7xl mx-auto block md:flex relative px-0 md:px-4">
 
@@ -34,4 +34,7 @@
 </script>
 
 <style scoped>
+.wfull{
+  width: 100vw;
+}
 </style>

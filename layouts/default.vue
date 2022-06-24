@@ -24,7 +24,6 @@
 }
 .border-semi-black{
     border-color:#202124 !important;
-    hover: border-semi-white !important;
 }
 
 .text-semi-white{
