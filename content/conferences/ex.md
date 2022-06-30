@@ -6,7 +6,6 @@ author: MinJun Choi
 img: thumbnail-example.png
 tag: 
   - etc
-  - flutter
 ---
 
 ### Hello World!
