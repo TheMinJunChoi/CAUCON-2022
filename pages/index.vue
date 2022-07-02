@@ -7,7 +7,10 @@
   <div class="pt-16 md:pt-24 pb-12 md:pb-20 max-w-5xl mx-auto text-6xl md:text-8xl text-white text-center">
     <div class="opacity-70 text-2xl md:text-5xl font-semibold md:font-bold tracking-tight pb-1 md:pb-2">GDSC CAUCON 2022</div>
     <span class="gradient-one font-extrabold tracking-tight ">Grow Your Possibility</span>
-    <div class="pt-8 font-medium text-white text-xl md:text-3xl">오프라인 컨퍼런스 7월 30일 오후 2시</div>
+    <div class="pt-8 font-medium text-white text-xl md:text-3xl">2022.7.30[SAT] 14:00, 중앙대 310관 지하 크리에이티브랩</div>
+  </div>
+  <div class="max-w-4xl mx-auto pb-20" style="text-align:center">
+      <a href="https://www.instagram.com/gdsc.cau/" target="blank" class="rounded-md md:rounded-lg p-2.5 md:p-4 text-center bg-white">신청하기</a>
   </div>
 
   <div class="max-w-4xl mx-auto rounded-xl md:rounded-2xl bg-semi-black px-6 md:px-14 py-6 md:py-9 border">
@@ -19,11 +22,8 @@
       <a href="https://github.com/GDSC-CAU" target="blank" class="rounded-md md:rounded-lg p-2.5 md:p-4 text-center bg-white">깃헙</a>
     </div>
   </div>
-  
-  <div class="max-w-4xl mx-auto pt-16 pb-20">
-    <div class="text-3xl font-medium text-white pb-6">FAQs</div>
-    <Accordian class="" />
-  </div>
+
+
 
 </div>
 </template>

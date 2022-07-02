@@ -23,6 +23,9 @@
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
                     <nuxt-link :to="{path: '/tags'}" replace>Tags</nuxt-link>
                 </li>
+                <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
+                    <nuxt-link :to="{path: '/faq'}" replace>FAQ</nuxt-link>
+                </li>
                 <li class="hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
                     <a href="https://gdsc-cau.github.io/" target="blank">Blog</a>
                 </li>
