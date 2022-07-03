@@ -10,7 +10,7 @@
     <div class="pt-8 font-medium text-white text-xl md:text-3xl">2022.7.30[SAT] 14:00, 중앙대 310관 지하 크리에이티브랩</div>
   </div>
   <div class="max-w-4xl mx-auto pb-20" style="text-align:center">
-      <a href="https://www.naver.com" target="blank" class="button1">신청하기</a>
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSfV8I42ee-OkwW4wBxdypA_8a770Q3sznVFB6AZhNDO2xLKhg/viewform" target="blank" class="button1">신청하기</a>
   </div>
 
   <div class="max-w-4xl mx-auto rounded-xl md:rounded-2xl bg-semi-black px-6 md:px-14 py-6 md:py-9 border">
