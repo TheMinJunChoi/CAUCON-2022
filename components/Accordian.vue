@@ -73,7 +73,7 @@
         rounded-none
         transition
         focus:outline-none
-      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree5" aria-expanded="ture"
+      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree5" aria-expanded="true"
         aria-controls="collapseThree5">
         어떤 세션들이 준비되어 있나요?
       </button>
@@ -85,7 +85,7 @@
     </div>
   </div>
   <div class="accordion-item bg-white border border-semi-white">
-    <h2 class="accordion-header mb-0" id="headingThree5">
+    <h2 class="accordion-header mb-0" id="headingFour5">
       <button class="
         accordion-button
         relative
@@ -101,12 +101,12 @@
         rounded-none
         transition
         focus:outline-none
-      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree5" aria-expanded="ture"
-        aria-controls="collapseThree5">
+      " type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour5" aria-expanded="true"
+        aria-controls="collapseFour5">
         행사 일정과 장소가 어떻게 되나요?
       </button>
     </h2>
-    <div id="collapseThree5" class="accordion-collapse collapse show" aria-labelledby="headingThree5">
+    <div id="collapseFour5" class="accordion-collapse collapse show" aria-labelledby="headingFour5">
       <div class="accordion-body py-6 px-5 text-sm md:text-base">
         7월 30일 14시에, 중앙대학교 310관 지하 크리에이티브랩에서 진행될 예정이에요. 참여하시면 구글 굿즈도 받아가실 수 있으니 많은 참여 부탁드려요!
       </div>
