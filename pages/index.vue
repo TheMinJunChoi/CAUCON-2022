@@ -38,7 +38,7 @@
 }
 .gradient-one{
   color: #79c0ff;
-  background: linear-gradient(92.7deg,#56d364 -1.37%,#79c0ff 90%);
+  background: linear-gradient(92.7deg,#0383FF -1.37%,#A948FF 90%);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -55,7 +55,7 @@
   padding-right: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
-  background: #6bc7bf;
+  background: #7b5fff;
   color: white;
   font-size: 16pt;
   font-weight: bold;
@@ -66,9 +66,9 @@
   padding-right: 100px;
   padding-top: 20px;
   padding-bottom: 20px;
-  border: 1px solid #79C0FF;
+  border: 1px solid #7b5fff;
   background: white;
-  color:#79C0FF;
+  color:#7b5fff;
   font-size: 16pt;
 }
 </style>
