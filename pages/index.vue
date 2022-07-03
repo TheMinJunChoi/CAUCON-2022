@@ -10,7 +10,7 @@
     <div class="pt-8 font-medium text-white text-xl md:text-3xl">2022.7.30[SAT] 14:00, 중앙대 310관 지하 크리에이티브랩</div>
   </div>
   <div class="max-w-4xl mx-auto pb-20" style="text-align:center">
-      <a href="https://www.instagram.com/gdsc.cau/" target="blank" class="rounded-md md:rounded-lg p-2.5 md:p-4 text-center bg-white">신청하기</a>
+      <a href="https://www.naver.com" target="blank" class="button1">신청하기</a>
   </div>
 
   <div class="max-w-4xl mx-auto rounded-xl md:rounded-2xl bg-semi-black px-6 md:px-14 py-6 md:py-9 border">
@@ -48,5 +48,27 @@
 }
 .wfull{
   width: 100vw;
+}
+.button1{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: #6bc7bf;
+  color: white;
+  font-size: 16pt;
+  font-weight: bold;
+}
+.button1:hover{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: 1px solid #79C0FF;
+  background: white;
+  color:#79C0FF;
+  font-size: 16pt;
 }
 </style>
