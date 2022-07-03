@@ -3,7 +3,7 @@ title: Hyojason application
 description:  궁금한 곳을 긁어주는 그대의 또 다른 손.
 slug: hyojason
 author: songgyeong Oh
-img: thumbnail-example.png
+img: hyojason.PNG
 tag: 
   - flutter
 ---
@@ -67,7 +67,7 @@ Flutter를 이용해 제작한 모바일 애플리케이션
 </center>
 </br>
 생활정보에는 실재 노년층이 다니는 성인문해학교 교과서를 기반으로 노년층이 최대한 다양한 양질의 정보를 얻을 수 있도록 구성했다. 병원 카테고리는 아픈 부위별로 가야할 병원을 사용자의 위치기반으로 병원정보를 제공하여 병원 진료 과가 생소한 노년층의 접근성을 높였다. 또한 노년층의 주요 이용서비스인 은행과 행정복지센터를 사용자 위치기반의 정보를 제공한다. 앱 내에서는 행복복지센터보다 노년층에게 익숙한 용어인 동사무소를 사용했다.
-</br>
+</br></br>
 <center>
 <img width="20%" src ="https://user-images.githubusercontent.com/54528942/152618152-d4de97a0-ca76-4728-a237-ba6acb3b026d.jpg"/>
 </center>
@@ -109,3 +109,5 @@ Flutter를 이용해 제작한 모바일 애플리케이션
 
 
 ### 3)	모든 노년층이 양질의 자료, 양질의 환경에서 배움으로써 세대 간의 디지털 격차 해소에 이바지하는 애플리케이션으로 확장
+</br>
+>> GDSC KR winter hack에 팀 잔드르크로 제출한 프로젝트이며, 더 자세한 내용은 해당 [링크](https://github.com/gdsckoreahackathon2022/23_hyojason)에서 보실 수 있습니다.
