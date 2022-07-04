@@ -11,7 +11,7 @@
         
         <div class="max-w-7xl mx-auto px-6 grid grid-cols-2 md:grid-cols-6 gap-x-3 md:gap-x-5 gap-y-9 pb-20 md:pb-24 md:pt-10">
             <div v-for="tag of tags" :key="tag" class="rounded-xl border-solid border-2 border-[#202124] hover:border-[#E8EAED]">
-                <nuxt-link :to='`/tags/${tag.slug}`' class="group px-2 py-2">
+                <nuxt-link :to='`/CAUCON/tags/${tag.slug}`' class="group px-2 py-2">
                     <div class="flex justify-center mb-3 md:mb-5">
                         <div class="lead-box h-32 w-32 md:h-40 md:w-40">
                             <img class="profile" :src="require(`~/assets/tags/${tag.img}`)" alt="">
