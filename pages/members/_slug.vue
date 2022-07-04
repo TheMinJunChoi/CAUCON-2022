@@ -39,7 +39,7 @@
 
         <div class="max-w-7xl grid grid-cols-1 colspan mt-5 md:mt-8 pb-8 md:pb-12 mx-auto px-6">
             <div class="group px-5 rounded-xl border-solid border-2 border-[#202124] hover:border-[#E8EAED]" v-for="marticle of proArticles" :key="marticle">
-                <nuxt-link :to="{path: `/conferences/${marticle.slug}`}">
+                <nuxt-link :to="{path: `/CAUCON/conferences/${marticle.slug}`}">
                     
                     <div class="article-inner flex items-center py-2 md:py-5 ">
                         <div class="hidden md:block">
@@ -74,7 +74,7 @@ export default {
     },
     data() {
         return {
-        path: '/',
+        path: '/CAUCON/',
         };
     },
     created() {

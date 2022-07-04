@@ -7,7 +7,7 @@
             <p class="text-base md:text-xl text-semi-white text-center mb-16">
                 by
                 <span v-for="memberAuthor of member" :key="memberAuthor">
-                    <nuxt-link :to="{path: `/members/${memberAuthor.slug}`}" class="hover:underline">
+                    <nuxt-link :to="{path: `/CAUCON/members/${memberAuthor.slug}`}" class="hover:underline">
                         {{memberAuthor.name}}
                     </nuxt-link>
                 </span>
@@ -26,7 +26,7 @@
                 <div class="text-semi-white text-xl md:text-2xl pb-2 md:pb-3.5 font-medium flex justify-center poppins">{{memberAuthor.name}}</div>
                 <div class="text-semi-white text-sm md:text-base pb-3 md:pb-4 flex justify-center px-3 text-center custom-text">{{memberAuthor.description}}</div>
                 <div class="flex justify-center items-center">
-                    <nuxt-link class="poppins text-semi-white text-base md:text-lg hover:underline" :to="{path: `/members/${memberAuthor.slug}`}">
+                    <nuxt-link class="poppins text-semi-white text-base md:text-lg hover:underline" :to="{path: `/CAUCON/members/${memberAuthor.slug}`}">
                         See More
                     </nuxt-link>
                 </div>

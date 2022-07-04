@@ -12,19 +12,19 @@
             <ul class="flex space-x-1 items-center h-10">
 
                 <li class="hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/timetable'}" replace>TimeTable</nuxt-link>
+                    <nuxt-link :to="{path: '/CAUCON/timetable'}" replace>TimeTable</nuxt-link>
                 </li>
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/members'}" replace>Member</nuxt-link>
+                    <nuxt-link :to="{path: '/CAUCON/members'}" replace>Member</nuxt-link>
                 </li>
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/conferences'}" replace>Conference</nuxt-link>
+                    <nuxt-link :to="{path: '/CAUCON/conferences'}" replace>Conference</nuxt-link>
                 </li>
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/tags'}" replace>Tags</nuxt-link>
+                    <nuxt-link :to="{path: '/CAUCON/tags'}" replace>Tags</nuxt-link>
                 </li>
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/faq'}" replace>FAQ</nuxt-link>
+                    <nuxt-link :to="{path: '/CAUCON/faq'}" replace>FAQ</nuxt-link>
                 </li>
                 <li class="hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
                     <a href="https://gdsc-cau.github.io/" target="blank">Blog</a>
@@ -63,11 +63,11 @@
                 </div>
 
                 <ul class="mt-4">
-                    <li><nuxt-link :to="{path: '/timetable'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Timetable</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/members'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Member</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/conferences'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Conferences</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/tags'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Tags</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/FAQ'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">FAQ</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/CAUCON/timetable'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Timetable</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/CAUCON/members'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Member</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/CAUCON/conferences'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Conferences</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/CAUCON/tags'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Tags</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/CAUCON/FAQ'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">FAQ</nuxt-link></li>
                     <li><a href="https://gdsc-cau.github.io/" @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Blog</a></li>
                 </ul>
 
