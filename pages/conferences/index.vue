@@ -11,9 +11,9 @@
         <div class="max-w-7xl flex grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 mx-auto px-6 sm:gap-7 pb-18 md:pb-8">
             <div class="rounded-xl group border-2 border-[#202124] hover:border-[#E8EAED]" v-for="article of articles" :key="article">
             <div class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-semi-black px-4 py-4" >
-                <nuxt-link :to='`/CAUCON/conferences/${article.slug}`'>
+                <nuxt-link :to='`/conferences/${article.slug}`'>
                     <div>
-                        <img :src="require(`assets/conferences/${article.img}`)" class="thumbnail rounded-xl border-none"/>
+                        <img :src="require(`~/assets/conferences/${article.img}`)" class="thumbnail rounded-xl border-none"/>
                     </div>
                     <div class="px-4 py-4">
                         <p class="mb-1 md:mb-1.5 text-sm md:text-sm text-semi-white">{{article.author}}</p>
@@ -26,9 +26,9 @@
         </div>
 
 
+       
 
-
-
+        
 
     </div>
 
