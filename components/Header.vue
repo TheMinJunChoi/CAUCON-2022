@@ -12,7 +12,7 @@
             <ul class="flex space-x-1 items-center h-10">
 
                 <li class="hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
-                    <nuxt-link :to="{path: '/timetable'}" replace>TimeTable</nuxt-link>
+                    <nuxt-link :to="{path: 'https://gdsc-cau.github.io/CAUCON/timetable'}" replace>TimeTable</nuxt-link>
                 </li>
                 <li class= "hidden py-1.5 px-2.5 rounded-lg md:block text-semi-white font-medium">
                     <nuxt-link :to="{path: '/members'}" replace>Member</nuxt-link>
