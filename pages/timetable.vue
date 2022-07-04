@@ -21,20 +21,11 @@
                 <div class="divider"></div>
                 <div class="session">
                   <div class="flex flex-row">
-                    <div class="title">GDSC CAU 1기 활동보고 |</div>
-                    <div class="spacer-10"></div>
-                    <div class="presenter">정우현 Lead</div>
-                  </div>
-                  <div class="time">14:20~14:35</div>
-                </div>
-                <div class="divider"></div>
-                <div class="session">
-                  <div class="flex flex-row">
                     <div class="title">인터넷 뱅킹 배우기 서비스 개발기 |</div>
                     <div class="spacer-10"></div>
                     <div class="presenter">정하경 Member</div>
                   </div>
-                  <div class="time">14:35~14:50</div>
+                  <div class="time">14:20~14:35</div>
                 </div>
                 <div class="divider"></div>
                 <div class="session">
@@ -43,12 +34,21 @@
                     <div class="spacer-10"></div>
                     <div class="presenter">김영빈 Member</div>
                   </div>
-                  <div class="time">14:50~15:05</div>
+                  <div class="time">14:35~14:50</div>
                 </div>
                 <div class="divider"></div>
                 <div class="session">
                   <div class="flex flex-row">
                     쉬는 시간
+                  </div>
+                  <div class="time">14:50~15:05</div>
+                </div>
+                <div class="divider"></div>
+                <div class="session">
+                  <div class="flex flex-row">
+                    <div class="title">GDSC CAU 1기 활동보고 |</div>
+                    <div class="spacer-10"></div>
+                    <div class="presenter">정우현 Lead</div>
                   </div>
                   <div class="time">15:05~15:20</div>
                 </div>
