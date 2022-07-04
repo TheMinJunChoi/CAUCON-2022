@@ -63,11 +63,11 @@
                 </div>
 
                 <ul class="mt-4">
-                    <li><nuxt-link :to="{path: '/CAUCON/timetable'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Timetable</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/CAUCON/members'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Member</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/CAUCON/conferences'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Conferences</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/CAUCON/tags'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Tags</nuxt-link></li>
-                    <li><nuxt-link :to="{path: '/CAUCON/FAQ'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">FAQ</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/timetable'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Timetable</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/members'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Member</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/conferences'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Conferences</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/tags'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Tags</nuxt-link></li>
+                    <li><nuxt-link :to="{path: '/FAQ'}" replace @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">FAQ</nuxt-link></li>
                     <li><a href="https://gdsc-cau.github.io/" @click="isOpen = false" class="text-semi-white my-3 inline-block w-full text-center">Blog</a></li>
                 </ul>
 
