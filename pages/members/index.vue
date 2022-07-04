@@ -14,7 +14,7 @@
                 <nuxt-link :to='`/CAUCON/members/${imember.slug}`' class="group px-2 py-2">
                     <div class="flex justify-center mb-3 md:mb-5">
                         <div class="lead-box h-32 w-32 md:h-40 md:w-40">
-                            <img class="profile" :src="require(`~/assets/resources/profile/${imember.img}`)" alt="">
+                            <img class="profile" :src="require(`~/CAUCON/assets/resources/profile/${imember.img}`)" alt="">
                         </div>
                     </div>
                     <div>
