@@ -108,7 +108,7 @@
     </h2>
     <div id="collapseFour5" class="accordion-collapse collapse show" aria-labelledby="headingFour5">
       <div class="accordion-body py-6 px-5 text-sm md:text-base">
-        7월 30일 14시에, 중앙대학교 310관 지하 크리에이티브랩에서 진행될 예정이에요. 참여하시면 구글 굿즈도 받아가실 수 있으니 많은 참여 부탁드려요!
+        7월 30일 14시에, 중앙대학교 310관 B312 크리에이티브랩에서 진행될 예정이에요. 참여하시면 구글 굿즈도 받아가실 수 있으니 많은 참여 부탁드려요!
       </div>
     </div>
   </div>
