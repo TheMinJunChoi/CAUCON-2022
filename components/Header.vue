@@ -3,7 +3,7 @@
         <div class="max-w-screen-2xl px-3 md:px-7 py-3 md:py-9 h-16 mx-auto flex items-center justify-between">
 
             <div class="max-w-fit md:ml-0">
-                <nuxt-link to="/">
+                <nuxt-link to="/CAUCON/">
                     <HeaderLogo />
                 </nuxt-link>
             </div>
