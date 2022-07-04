@@ -7,7 +7,7 @@
   <div class="pt-16 md:pt-24 pb-12 md:pb-20 max-w-5xl mx-auto text-6xl md:text-8xl text-white text-center">
     <div class="opacity-70 text-2xl md:text-5xl font-semibold md:font-bold tracking-tight pb-1 md:pb-2">GDSC CAUCON 2022</div>
     <span class="gradient-one font-extrabold tracking-tight ">Grow Your Possibility</span>
-    <div class="pt-8 font-medium text-white text-xl md:text-3xl">2022.7.30[토] 14:00, 중앙대 310관 지하 크리에이티브랩</div>
+    <div class="pt-8 font-medium text-white text-xl md:text-3xl">2022.7.30[토] 14:00, 중앙대 310관 B312 크리에이티브랩</div>
   </div>
   <div class="max-w-4xl mx-auto pb-20" style="text-align:center">
       <a href="https://docs.google.com/forms/d/e/1FAIpQLSfV8I42ee-OkwW4wBxdypA_8a770Q3sznVFB6AZhNDO2xLKhg/viewform" target="blank" class="button1">신청하기</a>
