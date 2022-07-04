@@ -13,7 +13,7 @@
             <div class="rounded-xl shadow-lg hover:shadow-xl cursor-pointer mb-10 sm:mb-0 bg-semi-black px-4 py-4" >
                 <nuxt-link :to='`/CAUCON/conferences/${article.slug}`'>
                     <div>
-                        <img :src="require(`~/assets/conferences/${article.img}`)" class="thumbnail rounded-xl border-none"/>
+                        <img :src="require(`assets/conferences/${article.img}`)" class="thumbnail rounded-xl border-none"/>
                     </div>
                     <div class="px-4 py-4">
                         <p class="mb-1 md:mb-1.5 text-sm md:text-sm text-semi-white">{{article.author}}</p>
@@ -26,9 +26,9 @@
         </div>
 
 
-       
 
-        
+
+
 
     </div>
 
