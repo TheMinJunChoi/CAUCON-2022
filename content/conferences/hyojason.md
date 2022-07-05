@@ -110,4 +110,4 @@ Flutter를 이용해 제작한 모바일 애플리케이션
 
 ### 3)	모든 노년층이 양질의 자료, 양질의 환경에서 배움으로써 세대 간의 디지털 격차 해소에 이바지하는 애플리케이션으로 확장
 </br>
->> GDSC KR winter hack에 팀 잔다르크로 제출한 프로젝트이며, 더 자세한 내용은 해당 [링크](https://github.com/gdsckoreahackathon2022/23_hyojason)에서 보실 수 있습니다.
+>> GDSC KR winter hack에 팀 잔다르크로 제출한 프로젝트이며, 더 자세한 내용은 해당 [링크](https://github.com/gdsckoreahackathon2022/23_hyojason/) 에서 보실 수 있습니다.
