@@ -2,13 +2,14 @@ module.exports = {
   purge: [],
   theme: {
     extend: {
-      typography: ({theme}) => ({
-        white: {
-          css : {
-            '--tw-prose-headings': theme('colors.white'),
-          }
-        }
-      })
+      typography: {
+        quoteless: {
+          css: {
+            'blockquote p:first-of-type::before': { content: 'none' },
+            'blockquote p:first-of-type::after': { content: 'none' },
+          },
+        },
+      },
     },
   },
   variants: {
