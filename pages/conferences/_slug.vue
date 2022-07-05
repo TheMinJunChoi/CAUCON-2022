@@ -16,7 +16,7 @@
             
         </div>
 
-        <nuxt-content :document="article" class="prose max-w-5xl text-semi-white custom-text px-6"/>
+        <nuxt-content :document="article" class=" prose prose-headings:text-white max-w-5xl text-white custom-text px-6"/>
 
         <div class="max-w-6xl mx-auto px-5 flex justify-center pt-16 md:pt-20 pb-6 md:pb-20">
             <div v-for="memberAuthor of member" :key="memberAuthor">
@@ -88,4 +88,5 @@ img {
 .wfull{
   width: 100vw;
 }
+
 </style>
