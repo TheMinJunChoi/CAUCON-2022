@@ -7,7 +7,7 @@
             <div class="font-normal text-base md:text-xl text-semi-white">
                 GDSC CAU Timetable
             </div>
-            <div class="text-semi-white text-3xl font-semibold">
+            <div class="text-semi-white text-xm md:text-3xl font-semibold">
               <div class="time-table">
                 <div class="divider"></div>
                 <div class="session">
