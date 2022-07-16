@@ -3,7 +3,7 @@ title: MOA Web Application
 description: 주문을 모아보다.
 slug: moa
 author: youngbeen Kim
-img: moa.PNG
+img: moa.png
 tag: 
   - django, mysql, aws, nginx
 ---
