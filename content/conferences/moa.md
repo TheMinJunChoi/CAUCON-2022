@@ -5,7 +5,13 @@ slug: moa
 author: youngbeen Kim
 img: moa.png
 tag: 
-  - django, mysql, aws, nginx
+  - django
+  - mysql
+  - awsec2
+  - nginx
+  - css
+  - html
+  - javascript
 ---
 
 모아: 중앙대학교 배달 메이트 매칭 시스템
@@ -72,6 +78,9 @@ tag:
 - MySQL
 - AWS EC2
 - NGINX
+- CSS
+- HTML
+- JavaScript
 ~~~~~
 </br>
 
