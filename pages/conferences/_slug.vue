@@ -88,5 +88,6 @@ img {
 .wfull{
   width: 100vw;
 }
-
+code::before { content: none !important; } 
+code::after { content: none !important; }
 </style>
