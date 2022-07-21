@@ -2,7 +2,7 @@
 title: MOA Web Application
 description: 주문을 모아보다.
 slug: moa
-author: youngbeen Kim
+author: Youngbeen Kim
 img: moa.png
 tag: 
   - django
