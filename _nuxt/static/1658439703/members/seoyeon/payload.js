@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/seoyeon", (function(a,b){return {data:[{member:{slug:"seoyeon",name:a,description:"백엔드 개발자를 목표로 공부하고 있습니다.",role:"Member",img:"seoyeon.jpg",dir:"\u002Fmembers",path:"\u002Fmembers\u002Fseoyeon",extension:".yaml",createdAt:b,updatedAt:b},authorName:a,proArticles:[]}],fetch:{},mutations:void 0}}("Seoyeon Lee","2022-07-21T21:40:18.000Z")));

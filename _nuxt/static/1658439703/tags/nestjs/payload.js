@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/nestjs", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"NestJS에 대한 글들 모음입니다.",img:"nestjs.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fnestjs",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("nestjs","2022-07-21T21:40:18.000Z")));
