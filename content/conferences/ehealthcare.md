@@ -2,10 +2,15 @@
 title: E-healthcare web service
 description: 온라인 의료상담 서비스.
 slug: ehealthcare
-author: hwikyung Kim
-img: ehealthcare.PNG
+author: hwikyung kim
+img: ehealthcare.png
 tag: 
-  - spring, mysql, html, javascript, css, aws
+  - spring
+  - mysql
+  - html
+  - javascript
+  - css
+  - aws ec2
 ---
 
 E-healthcare란?<br>
