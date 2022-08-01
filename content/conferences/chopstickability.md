@@ -2,8 +2,8 @@
 title: ChopstickAbility
 description: 영상 및 이미지 인식을 통한 외국인 젓가락 교육 웹.
 slug: chopstickability
-author: jooyoung Lee
-img: chopstickability.png
+author: Jooyoung Lee
+img: chopstickability.PNG
 tag:
   - html
   - javascript
