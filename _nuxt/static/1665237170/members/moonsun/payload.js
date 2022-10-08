@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/moonsun", (function(a,b){return {data:[{member:{slug:"moonsun",name:a,description:"중앙대학교 GDSC 멤버로 활동하고 있습니다.",role:"Member",img:"moonsun.jpg",dir:"\u002Fmembers",path:"\u002Fmembers\u002Fmoonsun",extension:".yaml",createdAt:b,updatedAt:b},authorName:a,proArticles:[]}],fetch:{},mutations:void 0}}("Moonsun Kim","2022-10-08T13:51:35.791Z")));

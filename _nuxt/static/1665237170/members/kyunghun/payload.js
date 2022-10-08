@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/members/kyunghun", (function(a,b){return {data:[{member:{slug:"kyunghun",name:a,description:"중앙대학교 GDSC 멤버로 활동하고 있습니다.",role:"Member",img:"kyunghun.jpg",dir:"\u002Fmembers",path:"\u002Fmembers\u002Fkyunghun",extension:".yaml",createdAt:b,updatedAt:b},authorName:a,proArticles:[]}],fetch:{},mutations:void 0}}("Kyunghun Kim","2022-10-08T13:51:35.791Z")));

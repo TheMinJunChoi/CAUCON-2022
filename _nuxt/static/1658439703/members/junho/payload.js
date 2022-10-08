@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/members/junho", (function(a,b){return {data:[{member:{slug:"junho",name:a,description:"SW를 통해 세상을 바꾸는 창업가가 되고 싶습니다.",role:"Member",img:"junho.jpg",dir:"\u002Fmembers",path:"\u002Fmembers\u002Fjunho",extension:".yaml",createdAt:b,updatedAt:b},authorName:a,proArticles:[]}],fetch:{},mutations:void 0}}("Junho Lim","2022-07-21T21:40:18.000Z")));

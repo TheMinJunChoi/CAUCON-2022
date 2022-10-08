@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tags/androidnative", (function(a,b){return {data:[{tag:{slug:a,name:a,description:"Android Native에 대한 글들 모음입니다.",img:"androidnative.png",dir:"\u002Ftags",path:"\u002Ftags\u002Fandroidnative",extension:".yaml",createdAt:b,updatedAt:b},tagName:a,proArticles:[]}],fetch:{},mutations:void 0}}("androidnative","2022-10-08T13:51:35.791Z")));
